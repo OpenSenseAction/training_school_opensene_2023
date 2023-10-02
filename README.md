@@ -3,7 +3,7 @@ This repository contains material for the OPENSENSE training school 2023 in Tel 
 ### Preparation prior to the workshop
 In order to prepare yourself and your laptop for the training school we ask you to do the following things. You
 
-**must** download and install this repository and its environment using [this instruction](). Otherwise, you cannot take part in the hands-on part of this training school.
+**must** download and install this repository and its environment using [this instruction](https://github.com/OpenSenseAction/training_school_opensene_2023/blob/main/Environment_installation_instructions.pdf). Otherwise, you cannot take part in the hands-on part of this training school.
 
 **should** go through the introduction notebooks (in the downloaded repository) for Jupyter, Python, and Scientific Python if you are not familiar with their content.
 
