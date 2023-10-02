@@ -12,7 +12,7 @@ CML review papers:
 * [https://doi.org/10.1002/wat2.1337](https://doi.org/10.1002/wat2.1337)
 * [https://doi.org/10.1002/wat2.1289](https://doi.org/10.1002/wat2.1289)
 
-PWS publications:
+PWS publication/preprint:
 * [https://doi.org/10.1029/2019GL083731](https://doi.org/10.1029/2019GL083731)
 * [https://doi.org/10.5194/hess-2023-195](https://doi.org/10.5194/hess-2023-195)
 
@@ -21,5 +21,6 @@ SML publications
 
 All other training material will be available in this repository shortly before the start of the training school. We will pull those updates together on the morning of the first day.
 
-### Agenda <img width="764" alt="image" src="https://github.com/OpenSenseAction/training_school_opensene_2023/assets/44392812/1ea8b958-0444-467e-abee-b60d6bf66946">
+### Agenda  
+<img width="764" alt="image" src="https://github.com/OpenSenseAction/training_school_opensene_2023/assets/44392812/1ea8b958-0444-467e-abee-b60d6bf66946">
 
