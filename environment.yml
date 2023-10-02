@@ -1,0 +1,9 @@
+name: os_training_school_test
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyterlab
+  - pycomlink=0.3.8
+  - scipy<1.9
