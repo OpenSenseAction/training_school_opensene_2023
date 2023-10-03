@@ -5,7 +5,7 @@ In order to prepare yourself and your laptop for the training school we ask you 
   
 You
 
-*  **must** download and install this repository and its environment using [this instruction]([https://github.com/OpenSenseAction/training_school_opensene_2023/blob/main/Environment_installation_instructions.pdf](https://github.com/OpenSenseAction/training_school_opensene_2023/blob/main/environment_installation_instructions.md)). Otherwise, you cannot actively take part in the hands-on part of this training school (>75% of the time).
+*  **must** download and install this repository and its environment using [this instruction](https://github.com/OpenSenseAction/training_school_opensene_2023/blob/main/environment_installation_instructions.md). Otherwise, you cannot actively take part in the hands-on part of this training school (>75% of the time).
 
 *  **should** go through the introduction notebooks (of this repository) for Jupyter, Python, and Scientific Python if you are not familiar with their content.
 
