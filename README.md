@@ -10,11 +10,12 @@ You
 *  **should** go through the introduction notebooks (of this repository) for Jupyter, Python, and Scientific Python if you are not familiar with their content.
 
 *  **could** read the following open-access publications:
-    * ML review papers:
+    * CML review papers:
       * [https://doi.org/10.1002/wat2.1337](https://doi.org/10.1002/wat2.1337)
       * [https://doi.org/10.1002/wat2.1289](https://doi.org/10.1002/wat2.1289)
     * PWS publication/preprint:
       * [https://doi.org/10.1029/2019GL083731](https://doi.org/10.1029/2019GL083731)
+      * [https://doi.org/10.1016/j.envsoft.2021.105169](https://doi.org/10.1016/j.envsoft.2021.105169)
       * [https://doi.org/10.5194/hess-2023-195](https://doi.org/10.5194/hess-2023-195)
     * SML publications 
       * [https://doi.org/10.3390/s17081864](https://doi.org/10.3390/s17081864)
