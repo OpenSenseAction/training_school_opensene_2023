@@ -1,0 +1,4 @@
+# Some answers:
+# A lower threshold reduces the number of wet time steps, therefore we assume the classification to be more conservative. We have a higher confidence in timesteps that are classfied wet. The number of missed wet time steps rises with a lower threshold.  
+
+# On the other hand, a higher threshold increases the number of wet time steps and we assume the classificaton to be more liberal. More lighter flucutations, possibly not stemming from rain, might be classfied as wet, but also light rain is recognized more often. The number of false wet time steps rises with a higher threshold.
