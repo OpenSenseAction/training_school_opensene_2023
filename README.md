@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSenseAction/training_school_opensene_2023/HEAD)
 # OpenSense training school 2023
 This repository contains material for the OPENSENSE training school 2023 in Tel Aviv ([https://indico.scc.kit.edu/event/3645/](https://indico.scc.kit.edu/event/3645/)).
 ### Preparation prior to the workshop
