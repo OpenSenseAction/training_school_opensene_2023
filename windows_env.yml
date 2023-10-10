@@ -1,4 +1,4 @@
-name: os_training_school
+name: os_training_school_windows
 channels:
   - conda-forge
   - defaults
