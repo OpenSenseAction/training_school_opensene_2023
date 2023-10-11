@@ -14,13 +14,13 @@ import pandas as pd
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-import plotly.graph_objs as go
+#import plotly.graph_objs as go
 from dateutil.rrule import HOURLY
 import matplotlib.pyplot as plt
 from matplotlib.dates import rrulewrapper, RRuleLocator, HourLocator, DateFormatter
 from pandas.plotting import register_matplotlib_converters
-import torch
-from torch.utils.data import TensorDataset, DataLoader
+#import torch
+#from torch.utils.data import TensorDataset, DataLoader
 from pathlib import Path
 import scipy.signal
 import matplotlib.dates as mdates
